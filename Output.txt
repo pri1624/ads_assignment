@@ -1,0 +1,19 @@
+London - GPE
+Maria Rodriguez - PERSON
+Spain - GPE
+Soho - LOC
+Maria - PERSON
+Daniel Chang - PERSON
+South Korea - GPE
+Sarah Patel - PERSON
+India - GPE
+evening - TIME
+Shoreditch - GPE
+James Thompson - PERSON
+France - GPE
+Emma Williams - PERSON
+Canada - GPE
+Westminster Abbey - FAC
+centuries - DATE
+London - GPE
+London - GPE
